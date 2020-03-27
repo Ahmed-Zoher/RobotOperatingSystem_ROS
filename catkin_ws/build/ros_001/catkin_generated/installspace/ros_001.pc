@@ -1,0 +1,8 @@
+prefix=/home/ahmed/catkin_ws/install
+
+Name: ros_001
+Description: Description of ros_001
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
